@@ -1,0 +1,7 @@
+\\ITSTEP\desktop redirection$\guli_ww39\Desktop\ServerTVieverConsole\ServerTVieverConsole\bin\Debug\ServerTVieverConsole.exe.config
+\\ITSTEP\desktop redirection$\guli_ww39\Desktop\ServerTVieverConsole\ServerTVieverConsole\bin\Debug\ServerTVieverConsole.exe
+\\ITSTEP\desktop redirection$\guli_ww39\Desktop\ServerTVieverConsole\ServerTVieverConsole\bin\Debug\ServerTVieverConsole.pdb
+\\ITSTEP\desktop redirection$\guli_ww39\Desktop\ServerTVieverConsole\ServerTVieverConsole\obj\Debug\ServerTVieverConsole.csprojAssemblyReference.cache
+\\ITSTEP\desktop redirection$\guli_ww39\Desktop\ServerTVieverConsole\ServerTVieverConsole\obj\Debug\ServerTVieverConsole.csproj.CoreCompileInputs.cache
+\\ITSTEP\desktop redirection$\guli_ww39\Desktop\ServerTVieverConsole\ServerTVieverConsole\obj\Debug\ServerTVieverConsole.exe
+\\ITSTEP\desktop redirection$\guli_ww39\Desktop\ServerTVieverConsole\ServerTVieverConsole\obj\Debug\ServerTVieverConsole.pdb
